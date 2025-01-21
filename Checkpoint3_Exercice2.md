@@ -69,7 +69,7 @@ Sur la capture précédente on voit que les types de stockage utilisés sont:
 
 - On ajoute notre nouvelle partition au RAID existant:
 
-![Capture d'écran 2025-01-17 113505](https://github.com/user-attachments/assets/7701c947-2079-4713-92c0-4b1b3e414ff5)
+![Capture d'écran 2025-01-17 113402](https://github.com/user-attachments/assets/f38da992-d132-407d-ac64-7164ae9c4b8b)
 
 - On contrôle que tout est bon:
 
