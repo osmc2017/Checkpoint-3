@@ -29,9 +29,9 @@ Pour un utilisateur standard et un usage personnel, il est recommandé de ne pas
 
 # **Partie 3 : Analyse du stockage**
 
-**Q.2.3.1**
+**Q.2.3.1** (CORRECTION)
 
-![Capture d'écran 2025-01-17 110515](https://github.com/user-attachments/assets/e08d396e-fead-459b-8ad2-82968cbf25c1)
+![Capture d'écran 2025-01-21 165328](https://github.com/user-attachments/assets/042c3b26-1991-4406-ab3a-270350b507ba)
 
 On voit que les systèmes de fichiers actuellement montés sont:
 
