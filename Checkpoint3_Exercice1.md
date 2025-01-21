@@ -80,17 +80,18 @@
 ![Capture d'écran 2025-01-17 103934](https://github.com/user-attachments/assets/d62ca695-68cf-42f0-8ab7-11e47bd18b5e)
 
 
-- Mappage du disque dossier commun "E:/"
+- Mappage du disque dossier commun "E:/" (CORRECTION)
 
-![Capture d'écran 2025-01-17 103611](https://github.com/user-attachments/assets/ab284693-9e48-4edd-a4ee-5c297f0c089c)
+![Capture d'écran 2025-01-21 152259](https://github.com/user-attachments/assets/387ab9e8-6f63-4dd6-83bb-4c438eb79f7f)
 
-- Mappage du disque dossier personnel "F:/" (on autorise les utilisateurs propriètaire seulement) :
+- Mappage du disque dossier personnel "F:/" (CORRECTION)
 
-![Capture d'écran 2025-01-17 103711](https://github.com/user-attachments/assets/3a0d509d-bfc7-49b8-aac2-c183948f7a2c)
+![Capture d'écran 2025-01-21 152030](https://github.com/user-attachments/assets/2a066b41-7ad5-4bb3-abc3-1db6773df035)
 
 - Vérification:
+  
+![Capture d'écran 2025-01-21 152601](https://github.com/user-attachments/assets/fde1bf3d-897c-4fd3-a6c7-dbc08f05481a)
 
-![Capture d'écran 2025-01-17 103815](https://github.com/user-attachments/assets/5b59d302-cef7-4ff5-905b-243ea295a4ce)
 
 
 
