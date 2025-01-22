@@ -35,8 +35,8 @@ Pour un utilisateur standard et un usage personnel, il est recommandé de ne pas
 
 On voit que les systèmes de fichiers actuellement montés sont:
 
-- / sur cp3--vg-root;
-- /boot sur md0p1.
+- ext2
+- ext4
   
 **Q.2.3.2**
 
